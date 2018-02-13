@@ -9,6 +9,6 @@
 
 ### Technical notes
 <!-- Are there special technical considerations? -->
-```csharp
-// This is a good place for small code snippets to highlight or other technical notes.
+```python
+# This is a good place for small code snippets to highlight or other technical notes.
 ```
