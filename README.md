@@ -7,6 +7,7 @@ Project.Euler is a python based implementation of the solutions to the problems 
 ## Problems
 [Multiples of 3 and 5](https://projecteuler.net/problem=1)
 [Even Fibonacci numbers](https://projecteuler.net/problem=2)
+[Largest prime factor](https://projecteuler.net/problem=3)
 
 ## Requirements
 - [Python](https://www.python.org/)
