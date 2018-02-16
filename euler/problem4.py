@@ -1,10 +1,6 @@
 class Problem4(object):
-    def palindrome(self):
+    @staticmethod
+    def palindrome():
         answer = 0
-
-
-
+        
         return answer
-
-    def __init__(self, limit):
-        self.upper_limit = limit
