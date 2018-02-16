@@ -10,6 +10,7 @@ Project.Euler is a python based implementation of the solutions to the problems 
 1. [Largest prime factor](https://projecteuler.net/problem=3)
 1. [Largest palindrome product](https://projecteuler.net/problem=4)
 1. [Smallest multiple](https://projecteuler.net/problem=5)
+1. [Sum square difference](https://projecteuler.net/problem=6)
 
 ## Requirements
 - [Python](https://www.python.org/)
