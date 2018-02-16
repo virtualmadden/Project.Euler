@@ -5,10 +5,11 @@ Project.Euler is a python based implementation of the solutions to the problems 
 [![Build Status](https://travis-ci.org/virtualmadden/Project.Euler.svg?branch=master)](https://travis-ci.org/virtualmadden/Project.Euler)
 
 ## Problems
-[Multiples of 3 and 5](https://projecteuler.net/problem=1)
-[Even Fibonacci numbers](https://projecteuler.net/problem=2)
-[Largest prime factor](https://projecteuler.net/problem=3)
-[Largest palindrome product](https://projecteuler.net/problem=4)
+1. [Multiples of 3 and 5](https://projecteuler.net/problem=1)
+1. [Even Fibonacci numbers](https://projecteuler.net/problem=2)
+1. [Largest prime factor](https://projecteuler.net/problem=3)
+1. [Largest palindrome product](https://projecteuler.net/problem=4)
+1. [Smallest multiple](https://projecteuler.net/problem=5)
 
 ## Requirements
 - [Python](https://www.python.org/)
